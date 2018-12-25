@@ -18,6 +18,4 @@ Deux relais typiques ont été sélectionnés pour ce challenge. </p>
 <p>
 La métrique utilisée pour évaluer les modèles est le Root Mean Square Error. </p>
 
-<p>
 [ PLUS D'INFOS ](https://datascience.total.com/fr/challenge/9/details#tab_brief47)
-</p>
