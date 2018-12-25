@@ -14,8 +14,6 @@ L’objectif de ce challenge est de réaliser des prévisions de vente d'une sé
 Les données à disposition sont un historique de vente depuis janvier 2016, ainsi que certaines données open data (météo, trafic routier, congés scolaires). Le fichier ainsi que le dictionnaire de données sont à retrouver dans le dossier <b>data/</b> de ce reposit.
 </p>
 <p>
-Deux relais typiques ont été sélectionnés pour ce challenge. </p>
-<p>
 La métrique utilisée pour évaluer les modèles est le Root Mean Square Error. </p>
 
 [ PLUS D'INFOS ](https://datascience.total.com/fr/challenge/9/details#tab_brief47)
