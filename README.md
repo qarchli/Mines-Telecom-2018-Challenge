@@ -11,7 +11,7 @@ La prédiction de l’approvisionnement des boutiques est un enjeu important. Ê
 L’objectif de ce challenge est de réaliser des prévisions de vente d'une sélection de catégories de produit (boulangerie viennoiseries pâtisseries, charcuterie, crèmerie, fruits et légumes, traiteur, baguettes, triangles, autres sandwich industriels)...
 </p>
 <p>
-Les données à disposition sont un historique de vente depuis janvier 2016, ainsi que certaines données open data (météo, trafic routier, congés scolaires). Le fichier ainsi que le dictionnaire de données sont à retrouver dans le dossier data/ de ce reposit.
+Les données à disposition sont un historique de vente depuis janvier 2016, ainsi que certaines données open data (météo, trafic routier, congés scolaires). Le fichier ainsi que le dictionnaire de données sont à retrouver dans le dossier <b>data/</b> de ce reposit.
 </p>
 <p>
 Deux relais typiques ont été sélectionnés pour ce challenge. </p>
