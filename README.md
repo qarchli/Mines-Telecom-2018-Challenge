@@ -12,7 +12,8 @@ L’objectif de ce challenge est de réaliser des prévisions de vente d'une sé
 </p>
 <p>
 Les données à disposition sont un historique de vente depuis janvier 2016, ainsi que certaines données open data (météo, trafic routier, congés scolaires).</p>
-Le fichier ainsi que le dictionnaire de données sont à retrouver dans le dossier [data](https://github.com/qarchli/Mines-Telecom-2018-Challenge/tree/master/data) de ce reposit.
+
+Le fichier ainsi que le dictionnaire de données sont à retrouver dans le dossier [data/][https://github.com/qarchli/Mines-Telecom-2018-Challenge/tree/master/data] de ce reposit.
 
 <p>
 Deux relais typiques ont été sélectionnés pour ce challenge. </p>
